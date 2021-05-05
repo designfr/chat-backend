@@ -1,0 +1,33 @@
+{
+    "sala01": {
+        "id": "000000000000000001",
+        "app": "bedigital",
+        "compania": "comp01",
+        "admin": "frafael",
+        "data": [
+            {
+                "01-02-2021": [
+                    {"momento": "01-02-2021 16:39:03", "aluno": "idAluno", "msg": "olá, tudo bem."},
+                    {"momento": "01-02-2021 16:39:13", "aluno": "idAluno2", "msg": "oi, tudo bom!!"}
+                ]
+            },
+            {
+                "02-02-2021": [
+                    {"momento": "01-02-2021 16:39:03", "aluno": "idAluno", "msg": "olá, tudo bem."},
+                    {"momento": "01-02-2021 16:39:13", "aluno": "idAluno2", "msg": "oi, tudo bom!!"}
+                ]
+            }
+        ]
+    },
+    "sala02": {
+        "id": "000000000000000002",
+        "app": "bedigital",
+        "compania": "comp01",
+        "admin": "frafael",
+        "data": "01-02-2021",
+        "conversas": [
+            {"momento": "01-02-2021 16:39:03", "aluno": "idAluno", "msg": "olá, tudo bem."},
+            {"momento": "01-02-2021 16:39:13", "aluno": "idAluno2", "msg": "oi, tudo bom!!"}
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "sala01": {
+        "id": "000000000000000001",
+        "app": "bedigital",
+        "compania": "comp01",
+        "admin": "frafael",
+        "data": "13-04-2021",
+        "conversas": [
+            {"momento": "13-04-2021 23:19:05", "aluno": "fe", "msg": "aaaa"},
+            {"momento": "13-04-2021 23:19:12", "aluno": "aln2", "msg": "test"},
+            {"momento": "13-04-2021 23:19:15", "aluno": "aln2", "msg": "outro test"}
+        ]
+    },
+    "sala02": {
+        "id": "000000000000000002",
+        "app": "bedigital",
+        "compania": "comp01",
+        "admin": "frafael",
+        "data": "13-04-2021",
+        "conversas": []
+    }
+}

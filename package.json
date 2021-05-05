@@ -1,0 +1,16 @@
+{
+    "name": "chat-backend",
+    "version": "0.0.1",
+    "description": "Gerenciador de dados para o chat",
+    "scripts": {
+        "dev": "node index.js",
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "fs": "0.0.1-security",
+        "http": "^0.0.1-security",
+        "socket.io": "^4.0.1"
+    }
+}
