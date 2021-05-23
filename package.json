@@ -7,11 +7,9 @@
         "start": "node index.js"
     },
     "dependencies": {
+        "axios": "^0.21.1",
         "cors": "^2.8.5",
-        "express": "^4.17.1",
-        "fs": "0.0.1-security",
         "http": "^0.0.1-security",
-        "https-localhost": "^4.6.5",
         "socket.io": "^4.0.1"
     }
 }
