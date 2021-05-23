@@ -8,7 +8,7 @@ const io = require("socket.io")(server, {
 });
 
 const PORT = 5000;
-// const APIURL = "https://hu47n7gpx2.execute-api.us-east-1.amazonaws.com/v1"
+// const APIURL = ""
 let lastSave = new Date();
 let dataReceived = [];
 let dataToSave = [];
